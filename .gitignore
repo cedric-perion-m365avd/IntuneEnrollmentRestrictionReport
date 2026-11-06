@@ -1,0 +1,22 @@
+# Rapports générés
+*.csv
+*.html
+
+# Artefacts PowerShell
+*.ps1xml
+*.pssproj
+
+# Modules récupérés localement
+Modules/
+
+# Journaux
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vs/
+.vscode/
+*.user
